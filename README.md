@@ -8,7 +8,7 @@
 
 如下图所示：
 
-![git 仓库分支多文件夹管理](./git 仓库分支多文件夹管理.png)
+![git 仓库分支多文件夹管理](https://github.com/small3flower/GitBranchInDiectory/blob/master/git%20%E4%BB%93%E5%BA%93%E5%88%86%E6%94%AF%E5%A4%9A%E6%96%87%E4%BB%B6%E5%A4%B9%E7%AE%A1%E7%90%86.png)
 
 
 
